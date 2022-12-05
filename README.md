@@ -24,7 +24,7 @@ A perfect first challenge if you're new to HTML and CSS. The card layout doesn't
 ### Links
 
 - Solution URL:(https://github.com/MIBKIRA/qr-code-component-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://mibkira.github.io/qr-code-component-main/)
 
 ### Built with
 
